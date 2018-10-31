@@ -1,6 +1,6 @@
 # Prabha - MusicPlayer
-I Created this application as my college project and when I was learning android or should I say programming so whatever the code you will find wouldn't be great or not even close to beta but I would like to share it with you guys
-"Thanks".
+
+
 <H1>APP FEATURES</H1>
 
 The awesome Music Player includes a lot of features some of them are mentioned below.
