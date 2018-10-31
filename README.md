@@ -20,9 +20,6 @@ The awesome Music Player includes a lot of features some of them are mentioned b
 - <b>MP3 Tagger.</b>
 
 
-
-
-
 <H1>Developed By</H1>
 Prabha Raj  - prabhasjraj@gmail.com
 
@@ -35,10 +32,6 @@ VerticalSeekbar:-https://github.com/h6ah4i/android-verticalseekbar<br>
 SeekArc:-https://github.com/neild001/SeekArc<br>
 JAudioTagger:- https://bitbucket.org/ijabz/jaudiotagger
 and other android libraries and android support libraries.
-
-
-
-
 
 
 
