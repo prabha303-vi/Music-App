@@ -29,8 +29,7 @@ The awesome Music Player includes a lot of features some of them are mentioned b
 
 
 <H1>Developed By</H1>
-Prabha Raj mishra - Prabha Rajmishra@outlook.com
-Website - www.Prabha Rajmishra.com
+Prabha Raj  - prabhasjraj@gmail.com
 
 
 <H1>Credits</H1>
