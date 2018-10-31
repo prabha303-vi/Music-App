@@ -21,8 +21,7 @@ The awesome Music Player includes a lot of features some of them are mentioned b
 - <b>MP3 Tagger.</b>
 
 
-<H1>Screenshots</H1>
-<br>
+
 
 
 <H1>Developed By</H1>
