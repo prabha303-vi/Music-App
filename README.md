@@ -25,9 +25,6 @@ The awesome Music Player includes a lot of features some of them are mentioned b
 <br>
 
 
-<img src="https://i.imgur.com/mipwOWc.png" width=900 height=625>
-
-
 <H1>Developed By</H1>
 Prabha Raj  - prabhasjraj@gmail.com
 
