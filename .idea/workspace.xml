@@ -14,7 +14,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b747406d-f814-4903-9ce7-e78305171eb9" name="Default" comment="" />
+    <list default="true" id="b747406d-f814-4903-9ce7-e78305171eb9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +46,7 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-              <folding>
-                <element signature="e#1568#1601#0" expanded="true" />
-                <element signature="e#1632#1665#0" expanded="true" />
-              </folding>
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -55,8 +54,8 @@
       <file leaf-file-name="TracksSubFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prabha/player/Activities/TracksSubFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="160" column="52" lean-forward="true" selection-start-line="160" selection-start-column="52" selection-end-line="160" selection-end-column="52" />
+            <state relative-caret-position="2880">
+              <caret line="160" column="52" selection-start-line="160" selection-start-column="52" selection-end-line="160" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,11 +75,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TracksSubGridViewFragment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TracksSubGridViewFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prabha/player/SubGridViewFragment/TracksSubGridViewFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" lean-forward="true" selection-start-column="8" selection-end-column="25" />
+            <state relative-caret-position="360">
+              <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -126,6 +134,9 @@
       <replace>Prabha Raj</replace>
       <replace>/2018</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2281,6 +2292,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/prabha/player/Setting/SettingsMusicLibraryFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/prabha/player/Setting/SettingActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_view_item.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -2297,6 +2309,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
@@ -2336,7 +2349,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2344,7 +2356,7 @@
     <property name="DEBUGGABLE_PROCESS" value="com.prabha.player" />
     <property name="DEBUGGER_ID" value="Auto" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="maiNA&#9;FILE&#9;file:///home/prabha/Videos/PhotoUpload/Rey-MusicPlayer-master/app/src/main/java/com/prabha/player/LauncherActivity/MainActivity.java&#10;sett&#9;PSI&#9;JAVA://com.prabha.player.Setting.SettingActivity&#10;ic_la&#9;FILE&#9;file:///home/prabha/Videos/PhotoUpload/Rey-MusicPlayer-master/app/src/main/res/mipmap-hdpi/ic_launcher.png&#10;google-&#9;FILE&#9;file:///home/prabha/Videos/PhotoUpload/Rey-MusicPlayer-master/app/google-services.json" />
+    <property name="SearchEverywhereHistoryKey" value="read&#9;FILE&#9;file:///home/prabha/Videos/PhotoUpload/Rey-MusicPlayer-master/README.md&#10;maiNA&#9;FILE&#9;file:///home/prabha/Videos/PhotoUpload/Rey-MusicPlayer-master/app/src/main/java/com/prabha/player/LauncherActivity/MainActivity.java&#10;sett&#9;PSI&#9;JAVA://com.prabha.player.Setting.SettingActivity&#10;ic_la&#9;FILE&#9;file:///home/prabha/Videos/PhotoUpload/Rey-MusicPlayer-master/app/src/main/res/mipmap-hdpi/ic_launcher.png&#10;google-&#9;FILE&#9;file:///home/prabha/Videos/PhotoUpload/Rey-MusicPlayer-master/app/google-services.json" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
@@ -2482,16 +2494,15 @@
     <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32996634" />
-      <window_info anchor="right" id="Preview" order="3" weight="0.20589872" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Logcat" order="7" weight="0.67600894" />
       <window_info id="Captures" order="2" weight="0.25" />
@@ -2499,7 +2510,6 @@
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17918754" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3295964" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
@@ -2507,11 +2517,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.20589872" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2542,13 +2554,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.1.aar/939dd2f3aa105a4b9baafc960fa149d4/jars/classes.jar!/com/google/android/gms/ads/AdActivity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_id3_tag_editor.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2762,10 +2767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
-          <folding>
-            <element signature="e#4148#4731#0" expanded="true" />
-            <element signature="e#4730#4731#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2776,9 +2777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="653">
           <caret line="63" column="34" selection-start-line="58" selection-start-column="4" selection-end-line="63" selection-end-column="34" />
-          <folding>
-            <element signature="e#2138#2156#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2806,9 +2804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="69" column="42" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2823,9 +2818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="63" column="57" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="57" />
-          <folding>
-            <element signature="e#2516#2549#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2857,12 +2849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="63" column="31" lean-forward="true" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
-          <folding>
-            <element signature="e#12127#12128#0" expanded="true" />
-            <element signature="e#12155#12156#0" expanded="true" />
-            <element signature="e#12199#12200#0" expanded="true" />
-            <element signature="e#12231#12232#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2901,16 +2887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="79" column="24" lean-forward="true" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
-          <folding>
-            <element signature="e#3383#3384#0" expanded="true" />
-            <element signature="e#3449#3450#0" expanded="true" />
-            <element signature="e#3507#3508#0" expanded="true" />
-            <element signature="e#3575#3576#0" expanded="true" />
-            <element signature="e#3652#3653#0" expanded="true" />
-            <element signature="e#3714#3715#0" expanded="true" />
-            <element signature="e#9287#9288#0" expanded="true" />
-            <element signature="e#9356#9357#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2940,8 +2916,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prabha/player/Activities/TracksSubFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="160" column="52" lean-forward="true" selection-start-line="160" selection-start-column="52" selection-end-line="160" selection-end-column="52" />
+        <state relative-caret-position="2880">
+          <caret line="160" column="52" selection-start-line="160" selection-start-column="52" selection-end-line="160" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2964,18 +2940,21 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="e#1568#1601#0" expanded="true" />
-            <element signature="e#1632#1665#0" expanded="true" />
-          </folding>
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prabha/player/SubGridViewFragment/TracksSubGridViewFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" lean-forward="true" selection-start-column="8" selection-end-column="25" />
+        <state relative-caret-position="360">
+          <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
         </state>
       </provider>
     </entry>

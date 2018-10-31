@@ -1,4 +1,4 @@
-# Rey-MusicPlayer
+# Prabha - MusicPlayer
 I Created this application as my college project and when I was learning android or should I say programming so whatever the code you will find wouldn't be great or not even close to beta but I would like to share it with you guys
 "Thanks".
 <H1>APP FEATURES</H1>
@@ -52,7 +52,7 @@ License
 ========
 All source code is licensed under Apache License 2.0. If you create your own app (free or commercial) that uses some or all of the code from this codebase, you MUST attribute it to the original author, no exceptions. You can do so by displaying an "About" or "Licenses" screen in your app that links back to this GitHub page AND includes the following notice:
 
-    Copyright 2015 - Prabha Raj Mishra
+    Copyright 2015 - Prabha Raj
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
