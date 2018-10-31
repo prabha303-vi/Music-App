@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.code-troopers.betterpickers:library-2.5.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-2.5.2.aar/87b6020f4887d93db3cff99d6df5bef4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-2.5.2.aar/87b6020f4887d93db3cff99d6df5bef4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.code-troopers.betterpickers/library/2.5.2/7df018e3549b8a828b35e47ef4a72ec89bdad92b/library-2.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
